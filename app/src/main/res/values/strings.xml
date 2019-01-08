@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">Google Drive</string>
+    <string name="app_name">DriveWeb</string>
     <string name="default_site">https://drive.google.com</string>
 </resources>
